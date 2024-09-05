@@ -1,3 +1,1 @@
-# kc.github.io
-<br />
-hello
+# kc.github.io hello
